@@ -16,7 +16,7 @@ a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #263343;
+    background-color: #295ea0;
     padding: 8px 12px;
 }
 
@@ -26,7 +26,7 @@ a{
 }
 
 .navbar__logo{
-    color: #d49466;
+    color: yellow;
 }
 
 .navbar__menu{
@@ -60,7 +60,7 @@ a{
     position: absolute;
     right: 32px;
     font-size: 24px;
-    color: #d49466;
+    color: yellow;
 }
 
 @media screen and (max-width: 768px){
