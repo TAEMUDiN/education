@@ -21,3 +21,4 @@
 import DiN_O
 DiN_O.DiN_O
 import math
+m = map(math.sqry, [1,3,4])
