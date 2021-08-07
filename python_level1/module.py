@@ -19,4 +19,5 @@
 # price(5)
 
 import DiN_O
-DiN_O.DiN_O()
+DiN_O.DiN_O
+import math
